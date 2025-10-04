@@ -6,6 +6,8 @@ __pycache__/
 notebooks/modis_data/
 notebooks/MODIS_AQUA_L3m_CHL_8D_9km/
 ./myenv/** */
-nasa_data/
+nasa_data/**
 .DS_Store
 **/.DS_Store
+**/modis_data/*
+modis_data/
