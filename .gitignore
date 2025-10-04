@@ -1,0 +1,11 @@
+**/myenv/
+__pycache__/
+**/__pycache__/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+notebooks/modis_data/
+notebooks/MODIS_AQUA_L3m_CHL_8D_9km/
+./myenv/** */
+nasa_data/
+.DS_Store
+**/.DS_Store
