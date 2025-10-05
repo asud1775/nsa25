@@ -1,0 +1,15 @@
+# Ignore local virtual environment
+myenv/
+
+# Python artifacts
+*.pyc
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor/project files
+.vscode/
+.git/
+
+nasa_data/modis_data
