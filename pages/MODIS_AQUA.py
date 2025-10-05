@@ -267,4 +267,3 @@ with st.spinner("Reading data and generating animation..."):
 
     else:
         st.error("❌ Failed to load NASA data. Please check the data source and file paths.")
-
